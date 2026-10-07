@@ -67,22 +67,22 @@ Welcome to the **Awesome Pre-Trained Machine Learning Models & Solutions Hub**! 
 
 ### 📦 Model Libraries & Hubs
 
-- **[Hugging Face Transformers](https://github.com/huggingface/transformers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
+- **[Hugging Face Transformers](https://github.com/huggingface/transformers)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
   **The de facto standard for pre-trained NLP models**, Apache-2.0 licensed. **Thousands of pre-trained models** for text, vision, audio, and multimodal tasks. **PyTorch, TensorFlow, and JAX support**. **Best for accessing pre-trained models**.
 
-- **[Hugging Face Diffusers](https://github.com/huggingface/diffusers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)  
+- **[Hugging Face Diffusers](https://github.com/huggingface/diffusers)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)  
   **State-of-the-art diffusion models for image and audio generation**, Apache-2.0 licensed. **Stable Diffusion, DALL-E, and generative pipelines**. **Best for generative AI**.
 
-- **[Hugging Face Hub](https://github.com/huggingface/huggingface_hub)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=social&color=white)](https://github.com/huggingface/huggingface_hub/stargazers)  
+- **[Hugging Face Hub](https://github.com/huggingface/huggingface_hub)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=social&color=white)](https://github.com/huggingface/huggingface_hub/stargazers)  
   **Client library for Hugging Face Hub**, Apache-2.0 licensed. **Download and upload models, datasets, and spaces programmatically**. **Best for model hub integration**.
 
-- **[ONNX Model Zoo](https://github.com/onnx/models)** [![GitHub stars](https://img.shields.io/github/stars/onnx/models?style=social&color=white)](https://github.com/onnx/models/stargazers)  
+- **[ONNX Model Zoo](https://github.com/onnx/models)** [![GitHub_Stars](https://img.shields.io/github/stars/onnx/models?style=social&color=white)](https://github.com/onnx/models/stargazers)  
   **Pre-trained ONNX models**, Apache-2.0 licensed. **Cross-platform open format for deep learning models**. **Best for model interoperability**.
 
-- **[TensorFlow Hub](https://github.com/tensorflow/hub)** [![GitHub stars](https://img.shields.io/github/stars/tensorflow/hub?style=social&color=white)](https://github.com/tensorflow/hub/stargazers)  
+- **[TensorFlow Hub](https://github.com/tensorflow/hub)** [![GitHub_Stars](https://img.shields.io/github/stars/tensorflow/hub?style=social&color=white)](https://github.com/tensorflow/hub/stargazers)  
   **TensorFlow's repository of reusable machine learning modules**, Apache-2.0 licensed. **Best for TensorFlow users**.
 
-- **[PyTorch Hub](https://github.com/pytorch/hub)** [![GitHub stars](https://img.shields.io/github/stars/pytorch/hub?style=social&color=white)](https://github.com/pytorch/hub/stargazers)  
+- **[PyTorch Hub](https://github.com/pytorch/hub)** [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/hub?style=social&color=white)](https://github.com/pytorch/hub/stargazers)  
   **PyTorch's model hub**, BSD-3-Clause licensed. **Pre-trained PyTorch models publishing platform**. **Best for PyTorch users**.
 
 - **[Model Zoo](https://github.com/model-zoo)**  
@@ -92,82 +92,82 @@ Welcome to the **Awesome Pre-Trained Machine Learning Models & Solutions Hub**! 
 
 ### ⚡ Inference & Serving Engines
 
-- **[Ollama](https://github.com/ollama/ollama)** [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+- **[Ollama](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
   **The simplest way to run local LLMs**, MIT licensed. **One-command model execution** for Llama, Mistral, Gemma, Phi, and dozens more. **Best for local model inference**.
 
-- **[llama.cpp](https://github.com/ggerganov/llama.cpp)** [![GitHub stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social&color=white)](https://github.com/ggerganov/llama.cpp/stargazers)  
+- **[llama.cpp](https://github.com/ggerganov/llama.cpp)** [![GitHub_Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social&color=white)](https://github.com/ggerganov/llama.cpp/stargazers)  
   **LLM inference in C/C++**, MIT licensed. **Runs efficiently on CPU and GPU with 4-bit/8-bit quantization**. **Best for low-resource LLM inference**.
 
-- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
+- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
   **High-throughput and memory-efficient LLM serving engine**, Apache-2.0 licensed. **PagedAttention memory management with continuous batching**. **Best for production LLM inference**.
 
-- **[LocalAI](https://github.com/mudler/LocalAI)** [![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
+- **[LocalAI](https://github.com/mudler/LocalAI)** [![GitHub_Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
   **OpenAI-compatible REST API for local model inference**, MIT licensed. **Drop-in replacement for OpenAI API without GPU requirement**. **Best for self-hosted OpenAI compatibility**.
 
-- **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social&color=white)](https://github.com/sgl-project/sglang/stargazers)  
+- **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub_Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social&color=white)](https://github.com/sgl-project/sglang/stargazers)  
   **Fast serving framework for Large Language Models and Vision-Language Models**, Apache-2.0 licensed. **RadixAttention for context reuse**. **Best for high-speed LLM & VLM inference**.
 
-- **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social&color=white)](https://github.com/huggingface/text-generation-inference/stargazers)  
+- **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social&color=white)](https://github.com/huggingface/text-generation-inference/stargazers)  
   **Hugging Face's enterprise inference server**, Apache-2.0 licensed. **Production-grade LLM serving with token streaming**. **Best for Hugging Face model serving**.
 
-- **[OpenLLM](https://github.com/bentoml/OpenLLM)** [![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social&color=white)](https://github.com/bentoml/OpenLLM/stargazers)  
+- **[OpenLLM](https://github.com/bentoml/OpenLLM)** [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social&color=white)](https://github.com/bentoml/OpenLLM/stargazers)  
   **Run any open-source LLM as OpenAI-compatible API**, Apache-2.0 licensed. **BentoML-based flexible serving engine**. **Best for LLM deployment**.
 
-- **[KServe](https://github.com/kserve/kserve)** [![GitHub stars](https://img.shields.io/github/stars/kserve/kserve?style=social&color=white)](https://github.com/kserve/kserve/stargazers)  
+- **[KServe](https://github.com/kserve/kserve)** [![GitHub_Stars](https://img.shields.io/github/stars/kserve/kserve?style=social&color=white)](https://github.com/kserve/kserve/stargazers)  
   **Kubernetes-native serverless model serving**, Apache-2.0 licensed. **Autoscaling inference workloads on Kubernetes**. **Best for Kubernetes model serving**.
 
-- **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social&color=white)](https://github.com/NVIDIA/TensorRT-LLM/stargazers)  
+- **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social&color=white)](https://github.com/NVIDIA/TensorRT-LLM/stargazers)  
   **NVIDIA's library for compiling and optimizing LLM inference**, Apache-2.0 licensed. **Maximum GPU throughput**. **Best for NVIDIA GPU optimization**.
 
-- **[Ray Serve](https://github.com/ray-project/ray)** [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
+- **[Ray Serve](https://github.com/ray-project/ray)** [![GitHub_Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
   **Scalable programmable model serving framework on Ray**, Apache-2.0 licensed. **Distributed model pipelines**. **Best for multi-model distributed serving**.
 
 ---
 
 ### 🛠️ Model Serving Frameworks
 
-- **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+- **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
   **Open source platform for the machine learning lifecycle**, Apache-2.0 licensed. **Model tracking, packaging, registry, and serving**. **Best for end-to-end ML lifecycle**.
 
-- **[NVIDIA Triton Inference Server](https://github.com/triton-inference-server/server)** [![GitHub stars](https://img.shields.io/github/stars/triton-inference-server/server?style=social&color=white)](https://github.com/triton-inference-server/server/stargazers)  
+- **[NVIDIA Triton Inference Server](https://github.com/triton-inference-server/server)** [![GitHub_Stars](https://img.shields.io/github/stars/triton-inference-server/server?style=social&color=white)](https://github.com/triton-inference-server/server/stargazers)  
   **Multi-framework enterprise inference server**, BSD-3-Clause licensed. **Supports TensorFlow, PyTorch, ONNX, and TensorRT**. **Best for multi-framework enterprise serving**.
 
-- **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
+- **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
   **Unified framework for building and scaling AI applications**, Apache-2.0 licensed. **Standardized packaging and cloud deployment**. **Best for production AI services**.
 
-- **[TensorFlow Serving](https://github.com/tensorflow/serving)** [![GitHub stars](https://img.shields.io/github/stars/tensorflow/serving?style=social&color=white)](https://github.com/tensorflow/serving/stargazers)  
+- **[TensorFlow Serving](https://github.com/tensorflow/serving)** [![GitHub_Stars](https://img.shields.io/github/stars/tensorflow/serving?style=social&color=white)](https://github.com/tensorflow/serving/stargazers)  
   **Flexible high-performance ML serving system**, Apache-2.0 licensed. **Designed for production environments**. **Best for TensorFlow models**.
 
-- **[TorchServe](https://github.com/pytorch/serve)** [![GitHub stars](https://img.shields.io/github/stars/pytorch/serve?style=social&color=white)](https://github.com/pytorch/serve/stargazers)  
+- **[TorchServe](https://github.com/pytorch/serve)** [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/serve?style=social&color=white)](https://github.com/pytorch/serve/stargazers)  
   **Flexible and easy to use tool for serving PyTorch models**, Apache-2.0 licensed. **Production-grade PyTorch deployment**. **Best for PyTorch models**.
 
 ---
 
 ### 📊 Evaluation & Benchmarking
 
-- **[LMSYS FastChat / Chatbot Arena](https://github.com/lm-sys/FastChat)** [![GitHub stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers)  
+- **[LMSYS FastChat / Chatbot Arena](https://github.com/lm-sys/FastChat)** [![GitHub_Stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers)  
   **An open platform for training, serving, and evaluating LLM chatbots**, Apache-2.0 licensed. **Powers LMSYS Chatbot Arena**. **Best for crowdsourced LLM evaluation**.
 
-- **[EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** [![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white)](https://github.com/EleutherAI/lm-evaluation-harness/stargazers)  
+- **[EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** [![GitHub_Stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white)](https://github.com/EleutherAI/lm-evaluation-harness/stargazers)  
   **A framework for zero-shot and few-shot LLM evaluation**, MIT licensed. **Standardized benchmark suite**. **Best for LLM benchmarking**.
 
-- **[HELM (Holistic Evaluation of Language Models)](https://github.com/stanford-crfm/helm)** [![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social&color=white)](https://github.com/stanford-crfm/helm/stargazers)  
+- **[HELM (Holistic Evaluation of Language Models)](https://github.com/stanford-crfm/helm)** [![GitHub_Stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social&color=white)](https://github.com/stanford-crfm/helm/stargazers)  
   **Stanford CRFM's comprehensive benchmark framework**, Apache-2.0 licensed. **Multidimensional evaluation of LLM capabilities**. **Best for academic and rigorous testing**.
 
-- **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
+- **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
   **Hugging Face's official benchmark tracking system for open LLMs**, Apache-2.0 licensed. **Best for model performance ranking**.
 
 ---
 
 ### 🧰 Fine-Tuning & Utility Tools
 
-- **[Hugging Face PEFT](https://github.com/huggingface/peft)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/peft?style=social&color=white)](https://github.com/huggingface/peft/stargazers) — Parameter-Efficient Fine-Tuning (LoRA, QLoRA, Prefix Tuning).
-- **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/accelerate?style=social&color=white)](https://github.com/huggingface/accelerate/stargazers) — Easy multi-GPU / TPU distributed training.
-- **[Hugging Face Datasets](https://github.com/huggingface/datasets)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/datasets?style=social&color=white)](https://github.com/huggingface/datasets/stargazers) — Lightweight access and sharing for machine learning datasets.
-- **[Gradio](https://github.com/gradio-app/gradio)** [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers) — Build & share delightful web apps for your machine learning models.
-- **[Streamlit](https://github.com/streamlit/streamlit)** [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers) — Faster way to build data and AI apps.
-- **[Weights & Biases (wandb)](https://github.com/wandb/wandb)** [![GitHub stars](https://img.shields.io/github/stars/wandb/wandb?style=social&color=white)](https://github.com/wandb/wandb/stargazers) — Developer tools for ML experiment tracking and model evaluation.
-- **[DVC (Data Version Control)](https://github.com/iterative/dvc)** [![GitHub stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers) — Data & model version management for ML projects.
+- **[Hugging Face PEFT](https://github.com/huggingface/peft)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/peft?style=social&color=white)](https://github.com/huggingface/peft/stargazers) — Parameter-Efficient Fine-Tuning (LoRA, QLoRA, Prefix Tuning).
+- **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/accelerate?style=social&color=white)](https://github.com/huggingface/accelerate/stargazers) — Easy multi-GPU / TPU distributed training.
+- **[Hugging Face Datasets](https://github.com/huggingface/datasets)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/datasets?style=social&color=white)](https://github.com/huggingface/datasets/stargazers) — Lightweight access and sharing for machine learning datasets.
+- **[Gradio](https://github.com/gradio-app/gradio)** [![GitHub_Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers) — Build & share delightful web apps for your machine learning models.
+- **[Streamlit](https://github.com/streamlit/streamlit)** [![GitHub_Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers) — Faster way to build data and AI apps.
+- **[Weights & Biases (wandb)](https://github.com/wandb/wandb)** [![GitHub_Stars](https://img.shields.io/github/stars/wandb/wandb?style=social&color=white)](https://github.com/wandb/wandb/stargazers) — Developer tools for ML experiment tracking and model evaluation.
+- **[DVC (Data Version Control)](https://github.com/iterative/dvc)** [![GitHub_Stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers) — Data & model version management for ML projects.
 
 ---
 
